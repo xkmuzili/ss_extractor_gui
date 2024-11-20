@@ -29,7 +29,7 @@ class SSExtractorGUI:
         
         ttk.Label(title_frame, text="SS Node Extractor", font=('Arial', 16, 'bold')).pack()
         ttk.Label(title_frame, text=f"Version: 1.0").pack()
-        ttk.Label(title_frame, text="作者: 佚名").pack()
+        ttk.Label(title_frame, text="作者: 木子李").pack()
         
         # 按钮区域
         button_frame = ttk.Frame(self.root)
